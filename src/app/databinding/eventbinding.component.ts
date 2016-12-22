@@ -11,6 +11,6 @@ export class EventbindingComponent {
 
   
   public onEvenBindingClicked () {  //add this method
-    alert('yes u caught it!!!');
+    alert('yes u caught it::::');
   }
 }
