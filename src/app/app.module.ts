@@ -19,6 +19,11 @@ import { ProjectionindexComponent } from './projection/projectionindex.component
 import { IntercompcommComponent } from './intercompcomm/intercompcomm.component';
 import { BtnpanelComponent } from './intercompcomm/btnpanel.component';
 import { ImgpanelComponent } from './intercompcomm/imgpanel.component';
+import { Projectmod1Component } from './projectmod1/projectmod1.component';
+import { LeftmenuComponent } from './projectmod1/leftmenu.component';
+import { MaincontentComponent } from './projectmod1/maincontent.component';
+import { ProjindexComponent } from './projectmod1/projindex.component';
+import { HeaderComponent } from './projectmod1/header.component';
 
 @NgModule({
   declarations: [
@@ -39,6 +44,11 @@ import { ImgpanelComponent } from './intercompcomm/imgpanel.component';
    IntercompcommComponent,
    BtnpanelComponent,
    ImgpanelComponent,
+   Projectmod1Component,
+   LeftmenuComponent,
+   MaincontentComponent,
+   ProjindexComponent,
+   HeaderComponent,
   ],
   imports: [
     BrowserModule,
